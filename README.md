@@ -2,7 +2,7 @@
 
 **`Desenvolvedor  back-end`**
 
-Me Wellison Matheus tenho 20 anos , sou estudante de Análise e Desenvolvimento de Sistemas  pela Faculdade CESMAC. Sou apaixonado por programação e tenho experiência prática em Python, JavaScript e Java. Atualmente, estou em busca de uma oportunidade de estágio ou de participar de projetos reais para aplicar e aprimorar meus conhecimentos, evoluir minhas habilidades e contribuir com soluções que gerem impacto. Eu psoto videos sobre torina e dicas sobre o estudo e o meu dia a dia no meu instagram"[w._.matheus](https://www.instagram.com/w._.matheus/)".
+Me chamo Wellison Matheus tenho 20 anos , sou estudante de Análise e Desenvolvimento de Sistemas  pela Faculdade CESMAC. Sou apaixonado por programação e tenho experiência prática em Python, JavaScript e Java. Atualmente, estou em busca de uma oportunidade de estágio ou de participar de projetos reais para aplicar e aprimorar meus conhecimentos, evoluir minhas habilidades e contribuir com soluções que gerem impacto. Eu psoto videos sobre torina e dicas sobre o estudo e o meu dia a dia no meu instagram"[w._.matheus](https://www.instagram.com/w._.matheus/)".
 
 <p align="left">
     </a>
