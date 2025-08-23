@@ -5,24 +5,21 @@
 Me chamo Wellison Matheus tenho 20 anos , sou estudante de Análise e Desenvolvimento de Sistemas  pela Faculdade CESMAC. Sou apaixonado por programação e tenho experiência prática em Python, JavaScript e Java. Atualmente, estou em busca de uma oportunidade de estágio ou de participar de projetos reais para aplicar e aprimorar meus conhecimentos, evoluir minhas habilidades e contribuir com soluções que gerem impacto. Eu posto videos sobre rotina e dicas sobre  estudos e o meu dia a dia no meu instagram"[w._.matheus](https://www.instagram.com/w._.matheus/)".
 
 <p align="left">
-    </a>
-    </a> 
     <a href="https://github.com/MatheusCalixtoDev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+        <img
+            alt="Total de estrelas"
+            title="Total de estrelas GitHub"
             src="https://custom-icon-badges.demolab.com/github/stars/MatheusCalixtoDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/MatheusCalixtoDev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MatheusCalixtoDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://img.shields.io/github/followers/MatheusCalixtoDev?style=for-the-badge&label=Seguidores&logo=github&logoColor=white&labelColor=236ad3&color=236ad3"
         />
     </a>
 </p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
